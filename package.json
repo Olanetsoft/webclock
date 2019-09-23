@@ -1,0 +1,23 @@
+{
+  "name": "webclock",
+  "version": "1.0.0",
+  "description": "This is a clock built with javascript on a web page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/webclock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/webclock/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/webclock#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^12.10.0"
+  }
+}
